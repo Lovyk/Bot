@@ -1,0 +1,5 @@
+{
+  "eventDir": "./events",
+  "commandsDir": "./commands",
+  "prefix": "l!"
+}
